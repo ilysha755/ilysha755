@@ -30,7 +30,6 @@
 <a href="https://t.me/ilysha755"><img src="https://img.shields.io/badge/-Telegram-0077B5?style=flat&logo=Telegram&logoColor=white"/></a>
 <a href="mailto:ilyarubtcov755@gmail.com"><img src="https://img.shields.io/badge/-GMail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ilyarubtcov755@gmail.com"/></a>
 <a href="https://github.com/ilysha755"><img src="https://img.shields.io/badge/-GitHub-grey?style=flat&logo=github&logoColor=white"/></a>
-<img src=https://komarev.com/ghpvc/?username=ilysha755 alt=ilysha755 />
 </p>
 
 [//]: # (&#40;dark, nord, graywhite, vision-friendly-dark&#41;)

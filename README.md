@@ -4,6 +4,7 @@
 
 ### 🛠 &nbsp; Skills
 - HTML/CSS, SCSS;
+- Pixel perfect, responsive design, cross-browsing;
 - JavaScript, Vue/VUEX;
 - Git, Docker;
 

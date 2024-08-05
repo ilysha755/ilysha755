@@ -3,9 +3,9 @@
 ### 👨🏻‍💻 &nbsp;My Resume <a download href="https://github.com/ilysha755/ilysha-portfolio/blob/main/src/assets/ilya755.pdff">download 💾</a>
 
 ### 🛠 &nbsp; Skills
-- HTML/CSS, SCSS;
+- HTML/CSS, SCSS,TailwindCSS,ElementPlus;
 - Pixel perfect, responsive design, cross-browsing;
-- JavaScript, Vue/VUEX;
+- JavaScript, Vue/VUEX, Pinia;
 - Git, Docker;
 
 ### 🛠 &nbsp; Tech Stack
